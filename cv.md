@@ -5,11 +5,6 @@
 - **RS School:** Katsiaryna Shpak
 - **Discord:** Katsiaryna\#2537
 ---
-## **Education:**
-
-Belorussian National Technical University 2007-2012
-
----
 ## **Language:**
 English A1-A2
 
