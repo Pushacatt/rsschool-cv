@@ -4,6 +4,7 @@
 - **E-mail:** pusha-04@yandex.ru
 - **RS School:** Katsiaryna Shpak
 - **Discord:** Katsiaryna\#2537
+
 ---
 ## **Language:**
 English A1-A2
@@ -15,10 +16,10 @@ I am a cost estimator in construction who decided to change profession after 10 
 ---
 ## **My first solution in Codewars: **
 
-```js
-function multiply(a, b) {
+```function multiply(a, b) {
 return a * b;
 }```
+
 ---
 ## **My first project:**
 [https://pushacatt.github.io/Zaverstayu/](https://pushacatt.github.io/Zaverstayu/)
